@@ -1,0 +1,4 @@
+eStockPre.apk �滻Ϊ qmbb-v1.0.10.apk  
+estock �滻 ΪC:\newtank\newtank\quanminbb.keystore
+
+echo 40=20150820>.\assets\conf.db  �滻 Ϊ echo 40=xxx(40)>.\assets\conf.db
